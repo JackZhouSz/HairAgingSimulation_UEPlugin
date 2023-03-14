@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HairAging.cpp.obj": [
+			"AgingFactorsCalc.cpp.obj",
+			"AgingParameters.cpp.obj",
+			"HairAging.cpp.obj",
+			"HairAgingCommands.cpp.obj",
+			"HairAgingStyle.cpp.obj",
+			"HairAgingUtils.cpp.obj",
+			"HeadSegmentation.cpp.obj",
+			"SAgingWidget.cpp.obj"
+		]
+	}
+}
